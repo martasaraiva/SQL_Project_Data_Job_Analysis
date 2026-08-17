@@ -69,7 +69,7 @@ Here are some key insights from the top-paying Data Analyst roles in 2023:
 
 - **Seniority Drives Higher Pay:** Several of the highest-paying positions are **Director, Associate Director, or Principal-level roles**, indicating that seniority and specialization are associated with higher salaries.
 
-![Top Paying Roles](assets/Top_paying_roles.png)
+![Top Paying Roles](assets/top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 <br>
