@@ -1,7 +1,7 @@
 # Introduction
 👋 Welcome to my SQL Portfolio Project, where I explore the data job market with a focus on data analyst roles. The goal of this project is to uncover the highest-paying opportunities 💰, identify the most in-demand skills 📈, and determine which skills offer the best combination of strong demand and high salaries 🎯.
 
-Check out my SQL queries here: 📂 Check out my SQL queries here: 📂 [project_sql folder](/project_sql/)
+📂 **SQL Queries:** [View the project SQL files](project_sql)
 
 <br>
 
@@ -352,7 +352,7 @@ This project strengthened both my SQL proficiency and my ability to approach dat
 
 <br>
 
-# Conclusions
+# Conclusion
 
 ### Insights
 The analysis revealed several key takeaways about the Data Analyst job market in 2023:
